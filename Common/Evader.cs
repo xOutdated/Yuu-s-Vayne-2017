@@ -4,7 +4,6 @@ using System.Collections.Concurrent;
 using System.Linq;
 using System.Text;
 using System.Threading;
-using Ece's_Vayne_2017;
 using EloBuddy;
 using EloBuddy.SDK.Events;
 using Common;
