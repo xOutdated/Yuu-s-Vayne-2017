@@ -6,11 +6,11 @@ using EloBuddy.SDK.Events;
 using EloBuddy;
 using SharpDX;
 using Common;
-using Ece's_Vayne_2017.Champion;
+using Ece_Vayne_2017.Champion;
 //typedefs
 using Color = System.Drawing.Color;
 
-namespace Ece's_Vayne_2017
+namespace Eces_Vayne_2017
 {
     class Program
     {
