@@ -7,7 +7,7 @@ using Common;
 using SharpDX;
 using Color = System.Drawing.Color;
 
-namespace Ece's_Vayne_2017.Champion
+namespace Ece_Vayne_2017.Champion
 {
     public class Vayne : BaseChamp
     {
